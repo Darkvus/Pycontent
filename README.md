@@ -52,7 +52,7 @@ Currently we use master branch, but who knows in future :)
 
 * **José Joaquín Pérez-Calderón Ortiz** - *Initial work*
 
-See also the list of [contributors](https://github.com/joaquinpco/Pycontent/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/joaquinpco/Pycontent/contributors) who participated in this project.
 
 ## License
 
